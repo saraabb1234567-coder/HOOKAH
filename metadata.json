@@ -1,0 +1,6 @@
+{
+  "name": "AURA W — Cinematic Acrylic Hookah Experience",
+  "description": "Explore the futuristic AURA W Hookah with transparent cyan acrylic architecture, precision stainless steel mechanics, and interactive scroll assembly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
